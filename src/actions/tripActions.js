@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:3001/api';
+const baseUrl = 'https://epic-adventures-await-api.herokuapp.com/api';
 
 export const fetchTrips = () => {
     let data = {
