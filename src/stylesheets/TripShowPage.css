@@ -1,0 +1,37 @@
+.TripShowContainer {
+    padding: 16px;
+}
+
+.TripShowInfo {
+    text-align: center;
+    padding: 25px;
+}
+
+.TripShowImage {
+    width: 80%;
+
+} 
+
+.TripShow {
+    margin: auto;
+    width: 75%;
+
+}
+
+.Username {
+    float: right;
+}
+
+.custom {
+    width: 100px;
+}
+
+.sub-text {
+    color:#aaa;
+    font-family:verdana;
+    font-size:14px;
+}
+
+.extra content{
+    text-align: center;
+}

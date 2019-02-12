@@ -1,0 +1,15 @@
+.container {
+    margin: auto;
+    padding: 50px;
+}
+
+.headerSignup {
+    margin: auto;
+    text-align: center;
+    padding: 40px;
+}
+
+.LoginHeader {
+    padding: 40px;
+    text-align: center;
+}
