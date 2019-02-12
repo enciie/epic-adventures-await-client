@@ -65,7 +65,7 @@ export const fetchUser = () => {
     }
 
     return dispatch => {
-        fetch(`${baseUrl}/users`, data)
+        fetch(`${baseUrl}/user`, data)
             .then(response => response.json())
             .then(user => {
                 dispatch({
